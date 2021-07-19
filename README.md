@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PeterTabeling-gematik
+👋 Hi, I’m @PeterTabeling-gematik
 
 <!---
 PeterTabeling-gematik/PeterTabeling-gematik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
